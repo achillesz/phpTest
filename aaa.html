@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+    <title>
+        豆粕
+        -大连商品交易所
+        -国内期货市场-行情中心</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+    <link href="http://quote.hexun.com/css/hangqing_content.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="http://quote.hexun.com/js/script.js"></script>
+    <script type="text/javascript" src="a.js"></script>
+    <script type="text/javascript" src="b.js"></script>
+</HEAD>
+<body>
+<!--2011-09-22添加广告-->
+<div id="topContentBanner"></div>
+<!--结束-->
+<div class="hangqing_content">
+    <!-- 内容导航 开始-->
+    <div class="contentNav">
+        <div class="navleft"><a href="http://quote.hexun.com/" target="_blank">行情中心</a> &gt;
+            <a href="http://quote.hexun.com/#futures" target="_blank">国内期货市场</a> &gt; <a href="http://quote.hexun.com/#dalian" target="_blank">
+                大连商品交易所
+            </a>&gt;
+					<span class="red">
+						豆粕
+					</span></div>
+        <div class="navright"><a href="default.aspx">返回国内期货行情首页</a></div>
+        <div class="clear"></div>
+    </div>
+    <!-- 内容导航 结束-->
+    <!-- table列表 开始-->
+    <div class="gray dou_topbg">
+        <div class="topleft">更新时间:
+            <span id="topupdatetime"></span></div>
+        <div class="topright">注：点击每列数据的名称可以进行排序。例如：点击“<span class="red">涨跌</span>”可以按照涨跌排序</div>
+        <div class="clear"></div>
+    </div>
+    <div id="FuturesListPage">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="dou_table">
+            <tr>
+                <td class="toptd">名称</td>
+                <td class="toptd">最新价</td>
+                <td class="toptd">涨跌</td>
+                <td class="toptd">买价</td>
+                <td class="toptd">买量</td>
+                <td class="toptd">卖价</td>
+                <td class="toptd">卖量</td>
+                <td class="toptd">成交量</td>
+                <td class="toptd">今开盘</td>
+                <td class="toptd">昨结算</td>
+                <td class="toptd">最高价</td>
+                <td class="toptd">最低价</td>
+                <td class="toptd">持仓量</td>
+                <td class="toptd">增仓</td>
+                <td class="toptd">关注</td>
+                <td class="toptdend">资讯</td>
+            </tr>
+        </table>
+    </div>
+    <div class="bottombar">
+        <div class="bottomleft">更新时间:
+            <span id="updatetime"></span></div>
+        <div class="bottomright">说明：股指期货报价单位:点数 黄金期货报价单位:元/克 其它期货品种报价单位:元/吨</div>
+        <div class="clear"></div>
+    </div>
+    <div class="pageborder">
+        <div class="list"><a href="javascript:FuturesListRequest.FirstPage()" title="首页">首页</a></div>
+        <div class="list"><a href="javascript:FuturesListRequest.PrevPage()" title="上一页">上一页</a></div>
+        <div class="list"><a href="javascript:FuturesListRequest.NextPage()" title="下一页">下一页</a></div>
+        <div class="list"><a href="javascript:FuturesListRequest.EndPage()" title="末页">末页</a></div>
+        <div class="box">&nbsp;<b><span id="pagenum">1/1</span></b>&nbsp;转到<input id="goto" style="WIDTH:16px">页</div>
+        <div class="list2"><input type="button" value="go" class="btn" onclick="FuturesListRequest.GoToPage(Common.$('goto').value)"></div>
+    </div>
+</div>
+<script type="text/javascript" id="FuturesListRequest" src=""></script>
+<script type="text/javascript">
+    FuturesListRequest.market =  Common.GetParam("market");
+    FuturesListRequest.type =  Common.GetParam("type");
+    FuturesListRequest.Request();
+    window.onload = Common.Resize;
+    window.onresize = Common.Resize;
+</script>
+<script type="text/javascript">
+    //var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    //document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+    var pageTracker = _gat._getTracker("UA-2167933-17");
+    pageTracker._trackPageview();
+</script>
+<script type="text/javascript" src="http://utrack.hexun.com/track/track.js"></script>
+<!--2011-09-22添加广告-->
+<div id="pageTail"></div>
+<script language="javascript" src="http://hxjs.tool.hexun.com/quote/pageMediaControl_0.js"></script>
+<!--结束-->
+<div class="hx_h_data"><table border="1"><tr><td>名称</td><td>最新价</td><td>涨跌</td><td>买价</td><td>买量</td><td>卖价</td><td>卖量</td><td>成交量</td><td>今开盘</td><td>昨结算</td><td>最高价</td><td>最低价</td><td>持仓量</td><td>增仓</td></tr><tr><td><a href="http://quote.futures.hexun.com/m1305.shtml" target="_blank">豆粕1305</a></td><td>3740</td><td>43</td><td>3686</td><td>10</td><td>3740</td><td>185</td><td>3574</td><td>3691</td><td>3697</td><td>3749</td><td>3686</td><td>12826</td><td>-3500</td></tr><tr><td><a href="http://quote.futures.hexun.com/m1307.shtml" target="_blank">豆粕1307</a></td><td>3466</td><td>-11</td><td>3463</td><td>1</td><td>3467</td><td>1</td><td>290</td><td>3476</td><td>3477</td><td>3479</td><td>3461</td><td>3138</td><td>44</td></tr><tr><td><a href="http://quote.futures.hexun.com/m1308.shtml" target="_blank">豆粕1308</a></td><td>3353</td><td>9</td><td>3347</td><td>3</td><td>3354</td><td>1</td><td>34</td><td>3340</td><td>3344</td><td>3356</td><td>3333</td><td>560</td><td>4</td></tr><tr><td><a href="http://quote.futures.hexun.com/m1309.shtml" target="_blank">豆粕1309</a></td><td>3206</td><td>1</td><td>3206</td><td>61</td><td>3207</td><td>617</td><td>1964374</td><td>3193</td><td>3205</td><td>3215</td><td>3175</td><td>1645906</td><td>-43036</td></tr><tr><td><a href="http://quote.futures.hexun.com/m1311.shtml" target="_blank">豆粕1311</a></td><td>3154</td><td>19</td><td>3136</td><td>1</td><td>3156</td><td>1</td><td>100</td><td>3136</td><td>3135</td><td>3156</td><td>3123</td><td>626</td><td>-24</td></tr><tr><td><a href="http://quote.futures.hexun.com/m1312.shtml" target="_blank">豆粕1312</a></td><td>3083</td><td>9</td><td>3078</td><td>10</td><td>3095</td><td>1</td><td>42</td><td>3059</td><td>3074</td><td>3083</td><td>3002</td><td>328</td><td>10</td></tr><tr><td><a href="http://quote.futures.hexun.com/m1401.shtml" target="_blank">豆粕1401</a></td><td>3022</td><td>22</td><td>3022</td><td>42</td><td>3023</td><td>770</td><td>704296</td><td>3000</td><td>3000</td><td>3025</td><td>2977</td><td>706004</td><td>-56184</td></tr><tr><td><a href="http://quote.futures.hexun.com/m1403.shtml" target="_blank">豆粕1403</a></td><td>3029</td><td>19</td><td>3026</td><td>1</td><td>3035</td><td>2</td><td>98</td><td>3012</td><td>3010</td><td>3030</td><td>2989</td><td>460</td><td>-2</td></tr></table>
+    <div>
+        <ul>
+            <li>
+                <a href="/futures/futures.aspx?market=2&amp;type=all" class="black" title="">全部</a>
+            <li>
+                <a href="/futures/futures.aspx?market=2&amp;type=a" class="black" title="豆一行情">豆一</a>
+            <li>
+                <a href="/futures/futures.aspx?market=2&amp;type=b" class="black" title="豆二行情">豆二</a>
+            <li>
+                <a href="/futures/futures.aspx?market=2&amp;type=m" class="black" title="豆粕行情">豆粕</a>
+            <li>
+                <a href="/futures/futures.aspx?market=2&amp;type=y" class="black" title="豆油行情">豆油</a>
+            <li>
+                <a href="/futures/futures.aspx?market=2&amp;type=c" class="black" title="玉米行情">玉米</a>
+            <li>
+                <a href="/futures/futures.aspx?market=2&amp;type=l" class="black" title="LLDPE行情">LLDPE</a>
+            <li>
+                <a href="/futures/futures.aspx?market=2&amp;type=p" class="black" title="棕榈油行情">棕榈油</a>
+            <li>
+                <a href="/futures/futures.aspx?market=2&amp;type=v" class="black" title="PVC">PVC</a>
+            <li>
+                <a href="/futures/futures.aspx?market=2&amp;type=j1" class="black" title="焦炭">焦炭</a>
+            <li>
+                <a href="/futures/futures.aspx?market=2&amp;type=jm" class="black" title="焦煤">焦煤</a>
+            <li>
+                <a href="/futures/futures.aspx?market=3&amp;type=all" class="black" title="">全部</a>
+            <li>
+                <a href="/futures/futures.aspx?market=3&amp;type=cf" class="black" title="棉花行情">棉花</a>
+            <li>
+                <a href="/futures/futures.aspx?market=3&amp;type=sr" class="black" title="白糖行情">白糖</a>
+            <li>
+                <a href="/futures/futures.aspx?market=3&amp;type=ws" class="black" title="强麦行情">强麦</a>
+            <li>
+                <a href="/futures/futures.aspx?market=3&amp;type=wt" class="black" title="硬麦行情">硬麦</a>
+            <li>
+                <a href="/futures/futures.aspx?market=3&amp;type=rs" class="black" title="油菜籽行情">油菜籽</a>
+            <li>
+            <li>
+                <a href="/futures/futures.aspx?market=3&amp;type=rm" class="black" title="菜籽粕行情">菜籽粕</a>
+            <li>
+            <li>
+                <a href="/futures/futures.aspx?market=3&amp;type=ro" class="black" title="菜籽油行情">菜籽油</a>
+            <li>
+                <a href="/futures/futures.aspx?market=3&amp;type=ta" class="black" title="PTA行情">PTA</a>
+            <li>
+                <a href="/futures/futures.aspx?market=3&amp;type=er" class="black" title="早籼稻行情">早籼稻</a>
+            <li>
+                <a href="/futures/futures.aspx?market=3&amp;type=me" class="black" title="甲醇">甲醇</a>
+            <li>
+                <a href="/futures/futures.aspx?market=1&amp;type=all" class="black" title="">全部</a>
+            <li>
+                <a href="/futures/futures.aspx?market=1&amp;type=cu" class="black" title="沪铜行情">沪铜</a>
+            <li>
+                <a href="/futures/futures.aspx?market=1&amp;type=al" class="black" title="沪铝行情">沪铝</a>
+            <li>
+                <a href="/futures/futures.aspx?market=1&amp;type=zn" class="black" title="沪锌行情">沪锌</a>
+            <li>
+                <a href="/futures/futures.aspx?market=1&amp;type=ru" class="black" title="天胶行情">天胶</a>
+            <li>
+                <a href="/futures/futures.aspx?market=1&amp;type=fu" class="black" title="燃料油行情">燃料油</a>
+            <li>
+                <a href="/futures/futures.aspx?market=1&amp;type=au" class="black" title="黄金行情">黄金</a>
+            <li>
+                <a href="/futures/futures.aspx?market=1&amp;type=rb" class="black" title="螺纹钢行情">螺纹钢</a>
+            <li>
+                <a href="/futures/futures.aspx?market=1&amp;type=wr" class="black" title="线材行情">线材</a>
+            <li>
+                <a href="/futures/futures.aspx?market=1&amp;type=pb" class="black" title="沪铅">沪铅</a>
+            <li>
+                <a href="/futures/futures.aspx?market=9&amp;type=all" class="black" title="">沪深300股指期货</a>
+            <li>
+                <a href="/futures/phcci.aspx" class="black" title="">北大汇丰指数</a>
+            <li>
+                <a href="/futures/pgfcci.aspx" class="black" title="">北大光华富邦指数</a></li>
+        </ul>
+    </div>
+</div>
+</body>
+</HTML>
