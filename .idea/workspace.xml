@@ -4,11 +4,11 @@
     <list default="true" id="d351c329-ecf2-4e34-a992-d4ec8b205eef" name="Default" comment="" />
     <ignored path="phpTest.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="d351c329-ecf2-4e34-a992-d4ec8b205eef" time="1367803353906" ignored="false" />
+    <file path="/Dummy.txt" changelist="d351c329-ecf2-4e34-a992-d4ec8b205eef" time="1368077666689" ignored="false" />
     <file path="/orderform.html" changelist="d351c329-ecf2-4e34-a992-d4ec8b205eef" time="1367805303562" ignored="false" />
     <file path="/processorder.php" changelist="d351c329-ecf2-4e34-a992-d4ec8b205eef" time="1367809493625" ignored="false" />
-    <file path="/search.html" changelist="d351c329-ecf2-4e34-a992-d4ec8b205eef" time="1367811270265" ignored="false" />
-    <file path="/results.php" changelist="d351c329-ecf2-4e34-a992-d4ec8b205eef" time="1367812495843" ignored="false" />
+    <file path="/search.html" changelist="d351c329-ecf2-4e34-a992-d4ec8b205eef" time="1368094618829" ignored="false" />
+    <file path="/results.php" changelist="d351c329-ecf2-4e34-a992-d4ec8b205eef" time="1368093091001" ignored="false" />
     <file path="/aaa.html" changelist="d351c329-ecf2-4e34-a992-d4ec8b205eef" time="1367828587296" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,103 +29,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="orderform.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/orderform.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="4" selection-start="34" selection-end="57" vertical-scroll-proportion="-1.9615384">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="processorder.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/processorder.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="34" selection-start="282" selection-end="282" vertical-scroll-proportion="-8.5">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="search.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/search.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="26" selection-start="442" selection-end="442" vertical-scroll-proportion="-11.115385">
+            <state line="12" column="27" selection-start="286" selection-end="286" vertical-scroll-proportion="-7.8461537">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="results.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="results.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/results.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="15" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="aaa.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/aaa.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="75" column="71" selection-start="3280" selection-end="3280" vertical-scroll-proportion="0.29512194">
+            <state line="40" column="2" selection-start="1234" selection-end="1234" vertical-scroll-proportion="0.79268295">
               <folding>
-                <element signature="tag#ul#0;tag#div#0;tag#div#3;tag#body#0;tag#HTML#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="a.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/a.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="42" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#289#467#0" expanded="false" />
-                <element signature="e#506#6067#0" expanded="false" />
-                <element signature="e#2465#5807#0" expanded="false" />
-                <element signature="e#2829#4167#0" expanded="false" />
-                <element signature="e#4185#5470#0" expanded="false" />
-                <element signature="e#5920#6061#0" expanded="false" />
-                <element signature="e#6102#6147#0" expanded="false" />
-                <element signature="e#6184#6292#0" expanded="false" />
-                <element signature="e#6336#6403#0" expanded="false" />
-                <element signature="e#6442#6753#0" expanded="false" />
-                <element signature="e#6800#7179#0" expanded="false" />
-                <element signature="e#7214#7359#0" expanded="false" />
-                <element signature="e#7240#7274#0" expanded="false" />
-                <element signature="e#7280#7334#0" expanded="false" />
-                <element signature="e#7402#7641#0" expanded="false" />
-                <element signature="e#7446#7616#0" expanded="false" />
-                <element signature="e#7476#7538#0" expanded="false" />
-                <element signature="e#7544#7606#0" expanded="false" />
-                <element signature="e#7677#8097#0" expanded="false" />
-                <element signature="e#7721#8072#0" expanded="false" />
-                <element signature="e#7773#7914#0" expanded="false" />
-                <element signature="e#7920#8062#0" expanded="false" />
-                <element signature="e#8137#8231#0" expanded="false" />
-                <element signature="e#8267#16743#0" expanded="false" />
-                <element signature="e#8335#16714#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="b.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/b.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="40" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#266#277#0" expanded="false" />
-                <element signature="e#330#491#0" expanded="false" />
-                <element signature="e#399#461#0" expanded="false" />
-                <element signature="e#1942#1947#0" expanded="false" />
-                <element signature="e#3164#3384#0" expanded="false" />
-                <element signature="e#3242#3374#0" expanded="false" />
-                <element signature="e#3780#4332#0" expanded="false" />
-                <element signature="e#4040#4101#0" expanded="false" />
-                <element signature="e#4158#4258#0" expanded="false" />
-                <element signature="e#4364#4437#0" expanded="false" />
+                <marker date="1368094655345" expanded="true" signature="930:1007" placeholder="..." />
+                <marker date="1368094655345" expanded="true" signature="938:1007" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -151,11 +70,11 @@
       <list>
         <option value="$PROJECT_DIR$/orderform.html" />
         <option value="$PROJECT_DIR$/processorder.php" />
-        <option value="$PROJECT_DIR$/search.html" />
-        <option value="$PROJECT_DIR$/results.php" />
         <option value="$PROJECT_DIR$/b.js" />
         <option value="$PROJECT_DIR$/a.js" />
         <option value="$PROJECT_DIR$/aaa.html" />
+        <option value="$PROJECT_DIR$/search.html" />
+        <option value="$PROJECT_DIR$/results.php" />
       </list>
     </option>
   </component>
@@ -223,12 +142,13 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ahtml" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PublishConfig" serverName="php" serverId="4f2ae306-d66c-4d73-a89b-5d9332a66acf">
     <servers>
@@ -245,6 +165,9 @@
       <server id="716f55d3-47d6-4d2a-a720-1f92e31497f1">
         <serverdata />
       </server>
+      <server id="a4ac5782-1dd4-4d65-86a8-b4b08e463ba8">
+        <serverdata />
+      </server>
       <server id="dc810449-090a-4205-a13c-2d5310e47a21">
         <serverdata />
       </server>
@@ -258,7 +181,14 @@
       <TestRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
+      <JSRemoteDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSRemoteDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="4f2ae306-d66c-4d73-a89b-5d9332a66acf" server_name="php">
       <method />
     </configuration>
     <list size="0" />
@@ -291,14 +221,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1288" height="1002" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2617504" sideWeight="0.6701031" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27147487" sideWeight="0.6701031" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -374,6 +304,64 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="27" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1368094655345" expanded="true" signature="930:1007" placeholder="..." />
+            <marker date="1368094655345" expanded="true" signature="938:1007" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="63" selection-start="699" selection-end="699" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1368094655345" expanded="true" signature="930:1007" placeholder="..." />
+            <marker date="1368094655345" expanded="true" signature="938:1007" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processorder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="34" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="26" selection-start="442" selection-end="442" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="15" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1368094655345" expanded="true" signature="930:1007" placeholder="..." />
+            <marker date="1368094655345" expanded="true" signature="938:1007" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/orderform.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -386,95 +374,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/orders.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processorder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="13" selection-start="490" selection-end="490" vertical-scroll-proportion="0.41463414">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/orderform.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="4" selection-start="34" selection-end="57" vertical-scroll-proportion="-1.9615384">
-          <folding />
-        </state>
+        <state line="28" column="13" selection-start="810" selection-end="810" vertical-scroll-proportion="0.5804878" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/processorder.php">
+    <entry file="file://$PROJECT_DIR$/search.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="34" selection-start="282" selection-end="282" vertical-scroll-proportion="-8.5">
+        <state line="12" column="27" selection-start="286" selection-end="286" vertical-scroll-proportion="-7.8461537">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/results.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="15" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="42" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0">
+        <state line="40" column="2" selection-start="1234" selection-end="1234" vertical-scroll-proportion="0.79268295">
           <folding>
-            <element signature="e#289#467#0" expanded="false" />
-            <element signature="e#506#6067#0" expanded="false" />
-            <element signature="e#2465#5807#0" expanded="false" />
-            <element signature="e#2829#4167#0" expanded="false" />
-            <element signature="e#4185#5470#0" expanded="false" />
-            <element signature="e#5920#6061#0" expanded="false" />
-            <element signature="e#6102#6147#0" expanded="false" />
-            <element signature="e#6184#6292#0" expanded="false" />
-            <element signature="e#6336#6403#0" expanded="false" />
-            <element signature="e#6442#6753#0" expanded="false" />
-            <element signature="e#6800#7179#0" expanded="false" />
-            <element signature="e#7214#7359#0" expanded="false" />
-            <element signature="e#7240#7274#0" expanded="false" />
-            <element signature="e#7280#7334#0" expanded="false" />
-            <element signature="e#7402#7641#0" expanded="false" />
-            <element signature="e#7446#7616#0" expanded="false" />
-            <element signature="e#7476#7538#0" expanded="false" />
-            <element signature="e#7544#7606#0" expanded="false" />
-            <element signature="e#7677#8097#0" expanded="false" />
-            <element signature="e#7721#8072#0" expanded="false" />
-            <element signature="e#7773#7914#0" expanded="false" />
-            <element signature="e#7920#8062#0" expanded="false" />
-            <element signature="e#8137#8231#0" expanded="false" />
-            <element signature="e#8267#16743#0" expanded="false" />
-            <element signature="e#8335#16714#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/b.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="40" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#266#277#0" expanded="false" />
-            <element signature="e#330#491#0" expanded="false" />
-            <element signature="e#399#461#0" expanded="false" />
-            <element signature="e#1942#1947#0" expanded="false" />
-            <element signature="e#3164#3384#0" expanded="false" />
-            <element signature="e#3242#3374#0" expanded="false" />
-            <element signature="e#3780#4332#0" expanded="false" />
-            <element signature="e#4040#4101#0" expanded="false" />
-            <element signature="e#4158#4258#0" expanded="false" />
-            <element signature="e#4364#4437#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/search.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="26" selection-start="442" selection-end="442" vertical-scroll-proportion="-11.115385">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aaa.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="71" selection-start="3280" selection-end="3280" vertical-scroll-proportion="0.29512194">
-          <folding>
-            <element signature="tag#ul#0;tag#div#0;tag#div#3;tag#body#0;tag#HTML#0" expanded="false" />
+            <marker date="1368094655345" expanded="true" signature="930:1007" placeholder="..." />
+            <marker date="1368094655345" expanded="true" signature="938:1007" placeholder="..." />
           </folding>
         </state>
       </provider>

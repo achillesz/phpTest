@@ -17,7 +17,7 @@ if(!get_magic_quotes_gpc()){
     $searchtype = addslashes($searchtype);
     $searchterm = addslashes($searchterm);
 }
-@ $db = new mysqli('localhost','bookorama123','books');
+@ $db = new mysqli('localhost','root','','books');
 if(mysqli_connect_errno()){
     echo "Error: Could not connect to database.Please try again later";
     exit;
@@ -31,7 +31,17 @@ for($i = 0; $i < $num_results; $i++){
     $row = $result->fetch_assoc();
     echo "<p><strong>" .($i + 1).". Title: ";
     echo htmlspecialchars(stripslashes($row['title']));
+    echo "</strong><br> Author:";
+    echo stripslashes($row['author']);
+    echo "<br> ISBN:";
+    echo stripslashes($row['isbn']);
+    echo "<br> Price:";
+    echo stripslashes($row['price']);
+    echo "</p>";
 };
+
+$result->free();
+$db->close();
 
 ?>
 </body>
